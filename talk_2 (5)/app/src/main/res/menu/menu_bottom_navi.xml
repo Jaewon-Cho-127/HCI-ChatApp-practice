@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">\
+    <item
+        android:id="@+id/navigation_item1"
+        android:title="친구"
+        android:icon="@drawable/user" />
+    <item
+        android:id="@+id/navigation_item2"
+        android:title="채팅방"
+        android:icon="@drawable/chat" />
+    <item
+        android:id="@+id/navigation_item3"
+        android:title="더보기"
+        android:icon="@drawable/more" />
+</menu>
